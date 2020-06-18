@@ -1,2 +1,5 @@
 # ignore secrets
 secret
+
+# ignore the server
+server
