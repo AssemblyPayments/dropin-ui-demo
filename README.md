@@ -14,7 +14,7 @@ The software in this repository is available as open source under the terms of t
 
 1. [Install Go](https://golang.org/doc/install).
 2. Clone this repo. CD into the `dropin-ui-demo` directory and enter `go build server.go`.
-3. If you are new to Go, you could check out [this](https://golang.org/doc/code.html) and [this](https://tour.golang.org/) and [this](https://golang.org/doc/effective_go.htmls).
+3. If you are new to Go, you could check out [this](https://golang.org/doc/code.html) and [this](https://tour.golang.org/) and [this](https://golang.org/doc/effective_go.html).
 
 Please note that knowledge of Go is not required to run this demo.
 
