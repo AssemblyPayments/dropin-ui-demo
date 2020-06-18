@@ -25,3 +25,10 @@ Please note that knowledge of Go is not required to run this demo.
 3. CD into the `dropin-ui-demo` directory and enter `./server`.
 4. Open a web browser to <http://localhost:8081/dropin.html>.
 5. Use the card number `4111 1111 1111 1111`.
+
+## To get going with Docker & docker-compose
+
+1. docker-compose build
+2. Add creds (as per 2 above) to `secrets`
+3. docker-compose up
+4. Open a web browser to <http://localhost:8081/dropin.html>.
