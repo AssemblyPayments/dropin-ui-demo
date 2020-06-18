@@ -21,7 +21,7 @@ Please note that knowledge of Go is not required to run this demo.
 ## Operation
 
 1. You will need credentials to authorize the server to interact with the Prelive environment. If you haven't already, sign up [here](https://dashboard.prelive.assemblypayments.com/#/sign-up/prelive).
-2. Add a file named `secret` to the repo directory. Write your prelive [compound key](https://developer.assemblypayments.com/docs/keys#compound) (`[username]:[API token]`) to this file. Get these values from the [dashboard](https://dashboard.prelive.assemblypayments.com/#/accounts). **Don't use your production credentials with this demo.**
+2. Add a file named `secret` to the repo directory. Write your prelive [compound key](https://developer.assemblypayments.com/docs/keys#compound) (`[username]:[API token]`) to this file. Get these values from the account page of the prelive [dashboard](https://dashboard.prelive.assemblypayments.com/#/accounts). **Don't use your production credentials with this demo.**
 3. CD into the `dropin-ui-demo` directory and enter `./server`.
 4. Open a web browser to <http://localhost:8081/dropin.html>.
 5. Use the card number `4111 1111 1111 1111`.
