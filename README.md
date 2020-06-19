@@ -29,6 +29,6 @@ Please note that knowledge of Go is not required to run this demo.
 ## To get going with Docker & docker-compose
 
 1. docker-compose build
-2. Add creds (as per 2 above) to `secrets`
+2. Add creds (as per 2 above) to `secret`
 3. docker-compose up
 4. Open a web browser to <http://localhost:8081/dropin.html>.
